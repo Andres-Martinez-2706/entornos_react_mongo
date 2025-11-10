@@ -2,6 +2,12 @@
 
 Aplicación web completa para la gestión de menús de restaurante con autenticación JWT, búsqueda avanzada y upload de imágenes a Cloudinary.
 
+## 🤝🏻 **Integrantes**
+
+* Andres Felipe Martinez
+* Harold Esteban Duran
+* Luige Alejandro Velasco
+
 ## 📋 Descripción
 
 Sistema fullstack que permite:
